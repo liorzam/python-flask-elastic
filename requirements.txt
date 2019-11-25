@@ -1,0 +1,5 @@
+flask==1.1.1
+elasticsearch==7.1.0
+cerberus
+requests
+pyaml

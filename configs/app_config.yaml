@@ -1,0 +1,4 @@
+PORT: 5000
+ES_CONNECTION:
+  HOST: elasticsearch1
+  PORT: 9200

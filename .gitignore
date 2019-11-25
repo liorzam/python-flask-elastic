@@ -1,0 +1,6 @@
+venv/
+.idea/
+__pycache__
+flaskr/__pycache__
+migrations/__pycache__
+
